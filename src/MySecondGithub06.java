@@ -4,5 +4,7 @@ public class MySecondGithub06 {
         System.out.println("this class will not go to github");
         System.out.println("we wrote this in GITHUB ");
          System.out.println("we wrote this in GITHUB 2 ");
+        System.out.println("we wrote this in intellij ");
+        System.out.println("we wrote this in intellij ");
     }
 }
