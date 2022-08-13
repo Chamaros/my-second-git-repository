@@ -5,6 +5,6 @@ public class MySecondGithub07 {
         System.out.println("Iam adding bir tane daha change");
         System.out.println("we wrote this in GITHUB ");
          System.out.println("we wrote this in GITHUB 2 ");
-        System.out.println("we wrote this in GITHUB ");
+        
     }
 }
